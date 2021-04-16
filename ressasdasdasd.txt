@@ -1,8 +1,0 @@
-asdasasd
-
-<<<<<<< HEAD
-change locallyssssss
-=======
-
-this is a change made on the repo at github site
->>>>>>> 3ef225a16e4f802c075812400c4dc7044b0016cd
